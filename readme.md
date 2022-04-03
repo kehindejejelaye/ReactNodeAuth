@@ -2,6 +2,8 @@
 
 This is the goalsetter app from the [Learn the MERN Stack](https://www.youtube.com/watch?v=-0exw-9YJBo) series on YouTube.
 
+Brad Traversy built his app with redux; my goal was to build out the frontend part using React's Context API as the state manager
+
 ## Usage
 
 Rename the .envexample to .env and add your MONGO_URI
